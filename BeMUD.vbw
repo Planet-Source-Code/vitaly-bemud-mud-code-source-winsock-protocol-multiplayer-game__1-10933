@@ -1,0 +1,6 @@
+frmMain = 0, 0, 237, 265, , 237, 0, 474, 265, C
+mdlMain = 474, 176, 711, 352, 
+mdlAreaFunctions = 0, 265, 237, 530, 
+mdlCommands = 474, 352, 711, 528, 
+mdlMudRelated = 474, 0, 711, 176, 
+mdlCreation = 237, 265, 474, 530, Z
